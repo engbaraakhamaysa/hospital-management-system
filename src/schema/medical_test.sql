@@ -13,4 +13,4 @@ CREATE TABLE medical_tests(
 
     CONSTRAINT fk_medical_test_appointment
     FOREIGN KEY (appointment_id) REFERENCES appointments(id)
-)
+);

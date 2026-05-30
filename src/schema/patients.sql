@@ -18,4 +18,4 @@ CREATE TABLE patients (
 
     email VARCHAR(50) UNIQUE
 
-)
+);
